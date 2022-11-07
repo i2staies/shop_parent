@@ -1,0 +1,6 @@
+com\atguigu\config\RedisConfig.class
+com\atguigu\constant\MqConst.class
+com\atguigu\constant\RedisConst.class
+com\atguigu\config\Swagger2Config.class
+com\atguigu\handler\GlobalExceptionHandler.class
+com\atguigu\config\MybatisPlusConfig.class

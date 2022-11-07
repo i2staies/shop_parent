@@ -1,0 +1,2 @@
+com\atguigu\handler\GlobalExceptionHandler.class
+com\atguigu\interceptor\FeignInterceptor.class
